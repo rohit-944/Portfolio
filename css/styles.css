@@ -1,0 +1,47 @@
+.navbar{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .9rem;
+    letter-spacing: .09rem;
+    background-color:#27354e;
+}
+.navbar-nav li{
+    padding-right: .7rem;
+}
+
+
+.nav-cl{
+    color: azure;
+    
+}
+
+.footer1{
+    background:#273650;
+}
+
+a{
+    display: block;
+    padding: 0 28px;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover,.active a{
+    background-color: #196cb9;
+}
+.learn{
+    
+    background-color:#1c3352;
+
+}
+.color-hero{
+    
+    background-color:#254b7c;
+
+}
+.color-git{
+    
+    background-color:#42403d;
+
+}
+
+
